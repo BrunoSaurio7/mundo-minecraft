@@ -1,0 +1,17 @@
+{
+	id: "d82767b2-e08c-4d3c-bca8-15f962457124"
+	type: "player"
+	player_name: "ThwartHornet044"
+	ranks: {
+		d82767b2-e08c-4d3c-bca8-15f962457124: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ThwartHornet044"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

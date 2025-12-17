@@ -1,0 +1,17 @@
+{
+	id: "d8d7904c-4548-40b5-aecd-869d67e05482"
+	type: "player"
+	player_name: "BrunoSaurio7"
+	ranks: {
+		d8d7904c-4548-40b5-aecd-869d67e05482: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BrunoSaurio7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "89d401cd-17a0-4fdf-9270-ef7c7e0da3d9"
+	type: "player"
+	player_name: "SopasAFK"
+	ranks: {
+		89d401cd-17a0-4fdf-9270-ef7c7e0da3d9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SopasAFK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

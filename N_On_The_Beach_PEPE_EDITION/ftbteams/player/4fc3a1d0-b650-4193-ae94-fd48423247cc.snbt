@@ -1,0 +1,17 @@
+{
+	id: "4fc3a1d0-b650-4193-ae94-fd48423247cc"
+	type: "player"
+	player_name: "Gabriel_Mij"
+	ranks: {
+		4fc3a1d0-b650-4193-ae94-fd48423247cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gabriel_Mij"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
